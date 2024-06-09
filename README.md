@@ -1,8 +1,5 @@
 # Hadoop Docker
 
-## Supported Hadoop Versions
-See repository branches for supported hadoop versions
-
 ## Quick Start
 
 To deploy an example HDFS cluster, run:
